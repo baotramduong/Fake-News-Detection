@@ -14,7 +14,8 @@
 <img src = '../main/Data & Images/real_wordcloud.png'>
             
 <img src = '../main/Data & Images/fake_wordcloud.png'>
-            
+
+**Words Count**
 <img src = '../main/Data & Images/num_words.png'>
 
 ## Modeling
